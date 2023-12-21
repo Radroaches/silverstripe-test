@@ -1,4 +1,4 @@
 php_settings:
   version: 8.1
   http:
-    memory_limit: '1024M' 
+    memory_limit: '2048M' 
